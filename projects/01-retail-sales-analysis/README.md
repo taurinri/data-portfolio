@@ -27,26 +27,25 @@ Comprehensive e-commerce data analysis using Supabase (PostgreSQL) cloud databas
 ## 🔍 Key Business Insights
 
 ### Revenue Performance
-- **Total Revenue**: Rp 2.1B over 24 months
+- **Total Revenue**: Rp 360M over 12 months
 - **Monthly Growth**: 8.5% average month-over-month
-- **Peak Season**: December shows 40% revenue spike
-- **Customer Lifetime Value**: Rp 1.2M average
+- **Peak Season**: Mei shows 15% revenue growth
 
 ### Customer Segmentation
-- **Champions (15%)**: High value, frequent buyers - Rp 2.5M average
-- **Loyal Customers (25%)**: Consistent purchasers - Rp 1.8M average
-- **At Risk (20%)**: High value but declining engagement
-- **New Customers (40%)**: Recent acquisitions with growth potential
+- **Champions (16.37%)**: High value, frequent buyers - Rp 3.9M average
+- **Loyal Customers (12.09%)**: Consistent purchasers - Rp 2.2M average
+- **At Risk (16.57%)**: High value but declining engagement
+- **New Customers (15.61%)**: Recent acquisitions with growth potential
 
 ### Product Intelligence
-- **Top Category**: Electronics (35% of revenue)
-- **Best Performer**: Samsung Galaxy series
+- **Top Category**: Musical instruments (8.26% of revenue)
+- **Best Performer**: Pro Home Ipsam
 - **Profit Leaders**: Premium accessories (45% margin)
 - **Inventory Insight**: 12% of products drive 80% of revenue
 
 ### Geographic Opportunities
-- **Top Markets**: Jakarta, Surabaya, Bandung
-- **Expansion Targets**: Medan, Makassar (high conversion, low penetration)
+- **Top Markets**: Depok, Pekanbaru, Medan
+- **Expansion Targets**: Pekanbaru, Medan (high conversion, low penetration)
 - **Regional Patterns**: Urban areas favor electronics, rural prefer household items
 
 ## 🚀 Business Recommendations
@@ -58,7 +57,7 @@ Comprehensive e-commerce data analysis using Supabase (PostgreSQL) cloud databas
 - **ROI Impact**: Estimated 15% revenue increase
 
 ### 2. Geographic Expansion
-- **Priority markets**: Medan, Makassar, Balikpapan
+- **Priority markets**: Depok, Pekanbaru, Medan
 - **Localized inventory** based on regional preferences
 - **Partnership opportunities** with local distributors
 - **Growth Potential**: 25% market expansion
